@@ -22,6 +22,8 @@ Investment calculations are based on inputs and projected rates, and actual retu
 
 ![Alt text](https://github.com/Soundharyasankar/SIP_Calculator/blob/main/img3.jpeg)
 
+Description: Pie chart showing principal (44%) vs returns (56%) with monetary values, helping users visualize investment growth in the Goal-Based SIP Calculator.
+
 ![Alt text](https://github.com/Soundharyasankar/SIP_Calculator/blob/main/img4.jpeg)
 
 
