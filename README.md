@@ -17,20 +17,32 @@ Dashboard
 
 ![Alt text](https://github.com/Soundharyasankar/SIP_Calculator/blob/main/img2.jpeg)
 
-DESCRIPTION:
+Description:
 Investment calculations are based on inputs and projected rates, and actual returns may vary. This is not financial advice.
 
 ![Alt text](https://github.com/Soundharyasankar/SIP_Calculator/blob/main/img3.jpeg)
 
 Description: Pie chart showing principal (44%) vs returns (56%) with monetary values, helping users visualize investment growth in the Goal-Based SIP Calculator.
 
-![Alt text](https://github.com/Soundharyasankar/SIP_Calculator/blob/main/img4.jpeg)
+Smart Investment Planner Dashboard
 
+![Alt text](https://github.com/Soundharyasankar/SIP_Calculator/blob/main/img4.jpeg) 
 
+Description:
+A fintech web app dashboard comparing SIP vs Lump Sum investments, showing total investment, future value, returns, and powered financial insights to help users plan their financial goals. 📊💰
+
+Investment Delay Impact Calculator
 
 ![Alt text](https://github.com/Soundharyasankar/SIP_Calculator/blob/main/img5.jpeg)
 
+A fintech dashboard showing the cost of delaying investments, comparing starting now vs starting later. It highlights potential wealth loss due to delayed investing and provides financial insights to help users make smarter investment decisions. 📊💰
+
+📊 Goal Achievement Tracker – Investment Milestones
+
 ![Alt text](https://github.com/Soundharyasankar/SIP_Calculator/blob/main/img6.jpeg)
+
+Description:
+A fintech dashboard showing investment milestones progress, where goals from ₹1 Lakh to ₹50 Lakh are achieved and the ₹1 Crore target is 87% completed, with financial insights guiding users to reach their financial goals faster. 💰📈
 
 ![Alt text](https://github.com/Soundharyasankar/SIP_Calculator/blob/main/img7.jpeg)
 ## Technologies Used
