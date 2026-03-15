@@ -33,12 +33,13 @@ Smart Investment Planner Dashboard
 
 Description:
 
-
 A fintech web app dashboard comparing SIP vs Lump Sum investments, showing total investment, future value, returns, and powered financial insights to help users plan their financial goals. 📊💰
 
 Investment Delay Impact Calculator
 
 ![Alt text](https://github.com/Soundharyasankar/SIP_Calculator/blob/main/img5.jpeg)
+
+Description:
 
 A fintech dashboard showing the cost of delaying investments, comparing starting now vs starting later. It highlights potential wealth loss due to delayed investing and provides financial insights to help users make smarter investment decisions. 📊💰
 
@@ -47,6 +48,7 @@ A fintech dashboard showing the cost of delaying investments, comparing starting
 ![Alt text](https://github.com/Soundharyasankar/SIP_Calculator/blob/main/img6.jpeg)
 
 Description:
+
 A fintech dashboard showing investment milestones progress, where goals from ₹1 Lakh to ₹50 Lakh are achieved and the ₹1 Crore target is 87% completed, with financial insights guiding users to reach their financial goals faster. 💰📈
 
 💰 SIP Goal Calculator
@@ -54,6 +56,7 @@ A fintech dashboard showing investment milestones progress, where goals from ₹
 ![Alt text](https://github.com/Soundharyasankar/SIP_Calculator/blob/main/img7.jpeg)
 
 Description:
+
 A smart tool to calculate SIP investments and provide AI insights on compounding, inflation, and financial goal planning. 📈
 
 ## Technologies Used
