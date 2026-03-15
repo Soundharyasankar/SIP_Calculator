@@ -15,9 +15,22 @@ A web application that helps users plan and track their Systematic Investment Pl
 
 Dashboard
 
-![Alt text](https://github.com/Soundharyasankar/SIP_Calculator/blob/main/img1.jpeg)
+![Alt text](https://github.com/Soundharyasankar/SIP_Calculator/blob/main/img2.jpeg)
+
+DESCRIPTION:
+Investment calculations are based on inputs and projected rates, and actual returns may vary. This is not financial advice.
+
+![Alt text](https://github.com/Soundharyasankar/SIP_Calculator/blob/main/img3.jpeg)
+
+![Alt text](https://github.com/Soundharyasankar/SIP_Calculator/blob/main/img4.jpeg)
 
 
+
+![Alt text](https://github.com/Soundharyasankar/SIP_Calculator/blob/main/img5.jpeg)
+
+![Alt text](https://github.com/Soundharyasankar/SIP_Calculator/blob/main/img6.jpeg)
+
+![Alt text](https://github.com/Soundharyasankar/SIP_Calculator/blob/main/img7.jpeg)
 ## Technologies Used
 - React 18 + TypeScript
 - Vite
