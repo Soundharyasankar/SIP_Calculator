@@ -89,7 +89,7 @@ Then open the printed local URL in your browser.
 ## Video
 https://drive.google.com/file/d/1q_uGed3tP6lntf3RXM-MfZfSHF6nVQLU/view?usp=sharing
 
-![Alt text](https://github.com/Soundharyasankar/SIP_Calculator/blob/main/SIP%20(1).mp4)
+https://github.com/Soundharyasankar/SIP_Calculator/blob/main/SIP%20(1).mp4
 
 ## Environment Variables Setup
 1. Copy `.env.example` to `.env.local`.
