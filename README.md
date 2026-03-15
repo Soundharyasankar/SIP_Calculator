@@ -13,7 +13,7 @@ A web application that helps users plan and track their Systematic Investment Pl
 
 📸 Screenshots
 Dashboard
-
+![Alt text](https://github.com/Soundharyasankar/SIP_Calculator/blob/main/img1.jpeg)
 
 
 ## Technologies Used
