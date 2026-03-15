@@ -44,7 +44,13 @@ A fintech dashboard showing the cost of delaying investments, comparing starting
 Description:
 A fintech dashboard showing investment milestones progress, where goals from ₹1 Lakh to ₹50 Lakh are achieved and the ₹1 Crore target is 87% completed, with financial insights guiding users to reach their financial goals faster. 💰📈
 
+💰 SIP Goal Calculator
+
 ![Alt text](https://github.com/Soundharyasankar/SIP_Calculator/blob/main/img7.jpeg)
+
+Description:
+A smart tool to calculate SIP investments and provide AI insights on compounding, inflation, and financial goal planning. 📈
+
 ## Technologies Used
 - React 18 + TypeScript
 - Vite
