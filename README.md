@@ -11,6 +11,11 @@ A web application that helps users plan and track their Systematic Investment Pl
 - **Easy-to-use input forms**: Sliders, selectors, and tabs keep data entry simple.
 - **Clean, responsive UI**: Works smoothly across devices.
 
+📸 Screenshots
+Dashboard
+
+
+
 ## Technologies Used
 - React 18 + TypeScript
 - Vite
