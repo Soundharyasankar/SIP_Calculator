@@ -12,7 +12,9 @@ A web application that helps users plan and track their Systematic Investment Pl
 - **Clean, responsive UI**: Works smoothly across devices.
 
 📸 Screenshots
+
 Dashboard
+
 ![Alt text](https://github.com/Soundharyasankar/SIP_Calculator/blob/main/img1.jpeg)
 
 
