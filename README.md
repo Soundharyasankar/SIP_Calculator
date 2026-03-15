@@ -38,6 +38,9 @@ npm run dev
 ```
 Then open the printed local URL in your browser.
 
+## Video
+https://drive.google.com/file/d/1q_uGed3tP6lntf3RXM-MfZfSHF6nVQLU/view?usp=sharing
+
 ## Environment Variables Setup
 1. Copy `.env.example` to `.env.local`.
 2. Fill in your values:
