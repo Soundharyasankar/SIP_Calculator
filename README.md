@@ -18,17 +18,22 @@ Dashboard
 ![Alt text](https://github.com/Soundharyasankar/SIP_Calculator/blob/main/img2.jpeg)
 
 Description:
+
 Investment calculations are based on inputs and projected rates, and actual returns may vary. This is not financial advice.
 
 ![Alt text](https://github.com/Soundharyasankar/SIP_Calculator/blob/main/img3.jpeg)
 
-Description: Pie chart showing principal (44%) vs returns (56%) with monetary values, helping users visualize investment growth in the Goal-Based SIP Calculator.
+Description: 
+
+Pie chart showing principal (44%) vs returns (56%) with monetary values, helping users visualize investment growth in the Goal-Based SIP Calculator.
 
 Smart Investment Planner Dashboard
 
 ![Alt text](https://github.com/Soundharyasankar/SIP_Calculator/blob/main/img4.jpeg) 
 
 Description:
+
+
 A fintech web app dashboard comparing SIP vs Lump Sum investments, showing total investment, future value, returns, and powered financial insights to help users plan their financial goals. 📊💰
 
 Investment Delay Impact Calculator
